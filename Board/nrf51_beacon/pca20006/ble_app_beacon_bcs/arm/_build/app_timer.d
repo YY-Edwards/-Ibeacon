@@ -1,8 +1,8 @@
 .\_build\app_timer.o: ..\..\..\..\..\Source\app_common\app_timer.c
 .\_build\app_timer.o: ..\..\..\..\..\Include\app_common\app_timer.h
-.\_build\app_timer.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdint.h
-.\_build\app_timer.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdbool.h
-.\_build\app_timer.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdio.h
+.\_build\app_timer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\app_timer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\app_timer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\app_common\app_error.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\s110\nrf_error.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\app_common\app_util.h
@@ -13,7 +13,7 @@
 .\_build\app_timer.o: ..\..\..\..\..\Include\gcc\core_cmFunc.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\system_nrf51.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\app_common\app_scheduler.h
-.\_build\app_timer.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\_build\app_timer.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\nrf51_bitfields.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\gcc\core_cm0.h
 .\_build\app_timer.o: ..\..\..\..\..\Include\s110\nrf_soc.h

@@ -772,10 +772,10 @@ int main(void)
         tmp.data.magic_byte = MAGIC_FLASH_BYTE;
         memcpy(tmp.data.beacon_uuid, &clbeacon_info[2], 16);
         tmp.data.major_value[0] = clbeacon_info[18] = 0x00;
-        tmp.data.major_value[1] = clbeacon_info[19] = 0x03;
+        tmp.data.major_value[1] = clbeacon_info[19] = 0x07;
 				tmp.data.minor_value[0] = clbeacon_info[20] = 0x00;
         //tmp.data.minor_value[0] = clbeacon_info[20] = 0x00;
-				tmp.data.minor_value[1] = clbeacon_info[21] = 0x01;//(uint8_t)NRF_FICR->ER[3];
+				tmp.data.minor_value[1] = clbeacon_info[21] = 0x05;//(uint8_t)NRF_FICR->ER[3];
         //tmp.data.minor_value[1] = clbeacon_info[21] = (uint8_t)NRF_FICR->ER[0];
         tmp.data.measured_rssi  = clbeacon_info[22] = APP_MEASURED_RSSI;//…Ë÷√beacon??uuid,major,minor??
         

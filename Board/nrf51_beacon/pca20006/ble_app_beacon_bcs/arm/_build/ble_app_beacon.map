@@ -592,22 +592,22 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       656         88          0         32          0      11024   app_button.o
-      1084         40          0         12          0      14322   app_gpiote.o
-       612         90          0         14          0      13595   app_scheduler.o
-      2826        184          0         40          0      24897   app_timer.o
+       656         88          0         32          0      10952   app_button.o
+      1084         40          0         12          0      14258   app_gpiote.o
+       612         90          0         14          0      13527   app_scheduler.o
+      2826        184          0         40          0      24833   app_timer.o
         44         14        192          0       2048        760   arm_startup_nrf51.o
-      1540          6          0          0          0      11222   ble_advdata.o
-      1000         10         16          0          0      27394   ble_bcs.o
-       776         38          0         25         28      13494   ble_conn_params.o
-         0          0          0          0          0      16360   ble_srv_common.o
-      2848        338          4         84        932      80538   main.o
-      1892         48          0         11        636      10691   pstorage_mod.o
-       468         86          0         20          0      23692   softdevice_handler.o
-       232         30          0          4          0      22289   system_nrf51.o
+      1540          6          0          0          0      11190   ble_advdata.o
+      1000         10         16          0          0      27358   ble_bcs.o
+       776         38          0         25         28      13426   ble_conn_params.o
+         0          0          0          0          0      16344   ble_srv_common.o
+      2848        338          4         84        932      80342   main.o
+      1892         48          0         11        636      10659   pstorage_mod.o
+       468         86          0         20          0      23608   softdevice_handler.o
+       232         30          0          4          0      22257   system_nrf51.o
 
     ----------------------------------------------------------------------
-     13980        972        244        248       3648     270278   Object Totals
+     13980        972        244        248       3648     269514   Object Totals
          0          0         32          0          0          0   (incl. Generated)
          2          0          0          6          4          0   (incl. Padding)
 
@@ -649,8 +649,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     14184        988        244        248       3648     270062   Grand Totals
-     14184        988        244        248       3648     270062   ELF Image Totals
+     14184        988        244        248       3648     269298   Grand Totals
+     14184        988        244        248       3648     269298   ELF Image Totals
      14184        988        244        248          0          0   ROM Totals
 
 ==============================================================================

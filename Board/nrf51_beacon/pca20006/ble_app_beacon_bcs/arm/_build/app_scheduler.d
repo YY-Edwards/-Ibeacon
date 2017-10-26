@@ -1,11 +1,11 @@
 .\_build\app_scheduler.o: ..\..\..\..\..\Source\app_common\app_scheduler.c
 .\_build\app_scheduler.o: ..\..\..\..\..\Include\app_common\app_scheduler.h
-.\_build\app_scheduler.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\app_scheduler.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
 .\_build\app_scheduler.o: ..\..\..\..\..\Include\app_common\app_error.h
-.\_build\app_scheduler.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\app_scheduler.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
 .\_build\app_scheduler.o: ..\..\..\..\..\Include\s110\nrf_error.h
-.\_build\app_scheduler.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdlib.h
-.\_build\app_scheduler.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\string.h
+.\_build\app_scheduler.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\_build\app_scheduler.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
 .\_build\app_scheduler.o: ..\..\..\..\..\Include\s110\nrf_soc.h
 .\_build\app_scheduler.o: ..\..\..\..\..\Include\s110\nrf_svc.h
 .\_build\app_scheduler.o: ..\..\..\..\..\Include\nrf51.h

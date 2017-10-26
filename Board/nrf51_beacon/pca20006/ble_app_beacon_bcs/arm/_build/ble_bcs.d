@@ -1,7 +1,7 @@
 .\_build\ble_bcs.o: ..\..\common\ble_bcs.c
 .\_build\ble_bcs.o: ..\..\common\ble_bcs.h
-.\_build\ble_bcs.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdint.h
-.\_build\ble_bcs.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\ble_bcs.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\ble_bcs.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
 .\_build\ble_bcs.o: ..\..\..\..\..\Include\s110\ble.h
 .\_build\ble_bcs.o: ..\..\..\..\..\Include\s110\ble_ranges.h
 .\_build\ble_bcs.o: ..\..\..\..\..\Include\s110\ble_types.h
@@ -22,5 +22,5 @@
 .\_build\ble_bcs.o: ..\..\..\..\..\Include\gcc\core_cmFunc.h
 .\_build\ble_bcs.o: ..\..\..\..\..\Include\system_nrf51.h
 .\_build\ble_bcs.o: ..\..\..\..\..\Include\app_common\app_error.h
-.\_build\ble_bcs.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\string.h
+.\_build\ble_bcs.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
 .\_build\ble_bcs.o: ..\..\..\..\..\Include\nordic_common.h

@@ -1,7 +1,7 @@
 .\_build\pstorage_mod.o: ..\..\common\pstorage_mod.c
-.\_build\pstorage_mod.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdlib.h
-.\_build\pstorage_mod.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdint.h
-.\_build\pstorage_mod.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\string.h
+.\_build\pstorage_mod.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\_build\pstorage_mod.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\pstorage_mod.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\nordic_common.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\s110\nrf_error.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\nrf_assert.h
@@ -16,7 +16,7 @@
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\nrf51_deprecated.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\compiler_abstraction.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\s110\nrf_soc.h
-.\_build\pstorage_mod.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\pstorage_mod.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\s110\nrf_svc.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\s110\nrf_error_soc.h
 .\_build\pstorage_mod.o: ..\..\..\..\..\Include\app_common\app_util.h

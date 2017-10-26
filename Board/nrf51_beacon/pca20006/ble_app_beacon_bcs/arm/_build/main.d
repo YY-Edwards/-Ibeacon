@@ -1,6 +1,6 @@
 .\_build\main.o: ..\main.c
-.\_build\main.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdbool.h
-.\_build\main.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
 .\_build\main.o: ..\..\..\..\..\Include\ble\ble_conn_params.h
 .\_build\main.o: ..\..\..\..\..\Include\s110\ble.h
 .\_build\main.o: ..\..\..\..\..\Include\s110\ble_ranges.h
@@ -24,10 +24,10 @@
 .\_build\main.o: ..\..\..\..\..\Include\app_common\app_error.h
 .\_build\main.o: ..\..\..\..\..\Include\s110\ble_hci.h
 .\_build\main.o: ..\..\..\..\..\Include\ble\ble_advdata.h
-.\_build\main.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\string.h
+.\_build\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
 .\_build\main.o: ..\..\..\..\..\Include\nordic_common.h
 .\_build\main.o: ..\..\..\..\..\Include\sd_common\softdevice_handler.h
-.\_build\main.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\_build\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
 .\_build\main.o: ..\..\..\..\..\Include\s110\nrf_sdm.h
 .\_build\main.o: ..\..\..\..\..\Include\s110\nrf_soc.h
 .\_build\main.o: ..\..\..\..\..\Include\nrf51_bitfields.h
@@ -43,7 +43,7 @@
 .\_build\main.o: ..\..\..\..\..\Include\nrf.h
 .\_build\main.o: ..\..\..\..\..\Include\nrf51_deprecated.h
 .\_build\main.o: ..\..\..\..\..\Include\app_common\app_timer.h
-.\_build\main.o: D:\Program Files (x86)\keil\ARM\ARMCC\bin\..\include\stdio.h
+.\_build\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
 .\_build\main.o: ..\..\..\..\..\Include\app_common\app_button.h
 .\_build\main.o: ..\..\..\..\..\Include\nrf_gpio.h
 .\_build\main.o: ..\..\common\pca20006.h
